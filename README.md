@@ -1,105 +1,72 @@
-# Hi, I'm Samar Ahmad 👋
+<!-- PROFILE HEADER -->
 
-### Software Developer | Full Stack Developer | SDE Enthusiast
+<h1 align="center">Hey, I'm Samar Ahmad 👋</h1>
 
-Computer Science and Engineering student passionate about building practical software solutions, developing scalable applications, and solving problems through code.
+<h3 align="center">Software Developer | Full Stack Developer | SDE Enthusiast</h3>
 
-- 🎓 B.Tech in Computer Science & Engineering — Amity University
-- 🎓 BS in Data Science and Applications — IIT Madras
-- 💻 Interested in Software Development, DSA, Backend Engineering and System Design
-- 🚀 Building full-stack applications and exploring scalable backend architectures
-- 🌱 Currently strengthening Java, Spring Boot, PostgreSQL and problem-solving skills
+<p align="center">
+  Building useful applications • Solving problems • Learning every day
+</p>
 
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-
-Java · C++ · Python · C · JavaScript
-
-**Core Computer Science**
-
-Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
-
-**Backend Development**
-
-Spring Boot · Flask · REST APIs · JWT Authentication · SQLAlchemy · Redis · Celery
-
-**Frontend Development**
-
-Vue.js · React · HTML5 · CSS3
-
-**Databases**
-
-PostgreSQL · MySQL · SQLite
-
-**Tools & Platforms**
-
-Git · GitHub · Maven · Vercel
-
-**AI & Machine Learning**
-
-TensorFlow · Keras · CNN
+<p align="center">
+  <a href="https://github.com/Code-Samar">
+    <img src="https://komarev.com/ghpvc/?username=Code-Samar&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Code-Samar?tab=followers">
+    <img src="https://img.shields.io/github/followers/Code-Samar?style=flat-square&color=blue" alt="Followers"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 👨‍💻 About Me
 
-### 1. Trekking Management Application
-A full-stack trekking management platform with role-based access for administrators, staff and trekkers.
+- 🎓 CSE Student | Amity University
+- 🎓 BS Data Science | IIT Madras
+- 💡 Interested in Software Engineering, DSA & System Design
+- 🚀 Building full-stack and backend applications
+- 🌱 Currently learning Spring Boot and PostgreSQL
 
-**Tech Stack:** Vue.js · Flask · SQLAlchemy · JWT · Redis · Celery
+### ⚡ Tech Stack
 
-[View Repository](https://github.com/Code-Samar/Trekking-Management-Application)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,js,spring,flask,vue,react,html,css,postgres,mysql,sqlite,redis,git,github,docker&perline=9" />
+</p>
 
-### 2. Sundarbans House — Official Website
-A community platform for IIT Madras BS students featuring events, regional meetups, teams and student engagement.
+### 🚀 Featured Projects
 
-**Tech Stack:** Vue.js · JavaScript · Vercel · Git
+| Project | Description | Tech |
+|---|---|---|
+| [Trekking Management](https://github.com/Code-Samar/Trekking-Management-Application) | Full-stack trekking and booking platform | Vue, Flask, Redis |
+| [Sundarbans House](https://github.com/Code-Samar/Sundarbans-House_Vue) | IITM student community platform | Vue, JavaScript |
+| [Hospital Management](https://github.com/Code-Samar/Hospital-Management-System-) | Role-based hospital management system | Flask, SQLite |
+| [Plant Disease Detection](https://github.com/Code-Samar) | CNN-based plant disease classification | Python, TensorFlow |
 
-[Live Website](https://sundarbans.iitmbs.org) · [View Repository](https://github.com/Code-Samar/Sundarbans-House_Vue)
+### 📊 GitHub Analytics
 
-### 3. Hospital Management System
-A web-based hospital management application supporting Admin, Doctor and Patient workflows, appointment scheduling and treatment records.
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Code-Samar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Samar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**Tech Stack:** Python · Flask · Flask-SQLAlchemy · SQLite · PostgreSQL
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=Code-Samar&theme=tokyonight&hide_border=true" />
+</p>
 
-[View Repository](https://github.com/Code-Samar/Hospital-Management-System-)
+### 🤝 Let's Connect
 
-### 4. Plant Disease Detection System
-An image classification project using deep learning to identify plant diseases from leaf images.
+<p align="center">
+  <a href="https://linkedin.com/in/samarahmad10">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:samarahmad0608@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Code-Samar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-**Tech Stack:** Python · TensorFlow · Keras · CNN
-
----
-
-## 🎯 Current Focus
-
-- Strengthening Data Structures & Algorithms through LeetCode.
-- Improving problem-solving and core CS fundamentals.
-- Learning Java backend development with Spring Boot.
-- Building **HireTrack — Job & Placement Management System**.
-- Understanding System Design and scalable application architecture.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Samar&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Samar&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Code-Samar&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samarahmad10)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Code-Samar)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:samarahmad0608@gmail.com)
-
----
-
-⭐ *Always learning, building, and improving — one commit at a time.*
+<p align="center">
+  <i>"Building today. Improving tomorrow."</i>
+</p>
