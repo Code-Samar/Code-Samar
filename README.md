@@ -7,19 +7,15 @@
 <p align="center">
   Computer Science student passionate about building practical software solutions,
   developing scalable applications, and solving problems through code.
-</p>
-
-<p align="center">
-  🎓 Amity University &nbsp; | &nbsp; 🎓 IIT Madras
-</p>
 
 ---
 
 ### 👨‍💻 About Me
-
-- 💡 Interested in Software Engineering, DSA & System Design
-- 🚀 Building full-stack and backend applications
-- 🌱 Exploring Java, Spring Boot and PostgreSQL
+- B.Tech in Computer Science & Engineering — Amity University
+- BS in Data Science and Applications — IIT Madras
+- Interested in Software Engineering, DSA & System Design
+- Building full-stack and backend applications
+- Exploring Java, Spring Boot and PostgreSQL
 
 ### ⚡ Tech Stack
 
@@ -68,17 +64,6 @@ A deep learning-based image classification system that identifies plant diseases
 - Java backend development with Spring Boot
 - **HireTrack** — Job & Placement Management System
 - System Design and scalable architectures
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Code-Samar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Samar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Code-Samar&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
