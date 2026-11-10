@@ -27,16 +27,39 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python,c,js,spring,flask,vue,react,html,css,postgres,mysql,sqlite,redis,git,github,docker&perline=9" />
 </p>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| **[Trekking Management Application](https://github.com/Code-Samar/Trekking-Management-Application)** | Role-based trekking, staff and booking management platform | Vue · Flask · Redis · Celery |
-| **[Sundarbans House](https://github.com/Code-Samar/Sundarbans-House_Vue)** | IIT Madras student community platform | Vue · JavaScript · Vercel |
-| **[Hospital Management System](https://github.com/Code-Samar/Hospital-Management-System-)** | Hospital workflows for Admin, Doctor and Patient | Flask · SQLAlchemy · PostgreSQL |
-| **Plant Disease Detection** | CNN-based plant disease image classification | Python · TensorFlow · Keras |
+### 🔹 Trekking Management Application
+A full-stack platform for managing treks, staff assignments, bookings and role-based workflows.
 
-🌐 **[Explore more projects on GitHub →](https://github.com/Code-Samar?tab=repositories)**
+`Vue.js` `Flask` `SQLAlchemy` `JWT` `Redis` `Celery`
+
+[📂 View Repository](https://github.com/Code-Samar/Trekking-Management-Application)
+
+---
+
+### 🔹 Sundarbans House — Official Website
+A student community platform featuring events, regional meetups, team management and community engagement.
+
+`Vue.js` `JavaScript` `Vercel` `Git`
+
+[🌐 Live Website](https://sundarbans.iitmbs.org) · [📂 View Repository](https://github.com/Code-Samar/Sundarbans-House_Vue)
+
+---
+
+### 🔹 Hospital Management System
+A role-based hospital management application supporting Admin, Doctor and Patient workflows, appointment scheduling and treatment records.
+
+`Python` `Flask` `SQLAlchemy` `SQLite` `PostgreSQL`
+
+[📂 View Repository](https://github.com/Code-Samar/Hospital-Management-System-)
+
+---
+
+### 🔹 Plant Disease Detection System
+A deep learning-based image classification system that identifies plant diseases from leaf images.
+
+`Python` `TensorFlow` `Keras` `CNN`
 
 ### 🎯 Currently Focusing On
 
