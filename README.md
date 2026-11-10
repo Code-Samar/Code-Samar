@@ -1,16 +1,14 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">Hey, I'm Samar Ahmad 👋</h1>
+<h1 align="center">Samar Ahmad 👋</h1>
 
 <h3 align="center">Software Developer | Full Stack Developer | SDE Enthusiast</h3>
 
 <p align="center">
-  Building useful applications • Solving problems • Learning every day
+ Computer Science and Engineering student passionate about building practical software solutions, developing scalable applications, and solving problems through code.
 </p>
 
 ---
-
-### 👨‍💻 About Me
 
 - 🎓 CSE Student | Amity University
 - 🎓 BS Data Science | IIT Madras
@@ -26,12 +24,35 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Trekking Management](https://github.com/Code-Samar/Trekking-Management-Application) | Full-stack trekking and booking platform | Vue, Flask, Redis |
-| [Sundarbans House](https://github.com/Code-Samar/Sundarbans-House_Vue) | IITM student community platform | Vue, JavaScript |
-| [Hospital Management](https://github.com/Code-Samar/Hospital-Management-System-) | Role-based hospital management system | Flask, SQLite |
-| [Plant Disease Detection](https://github.com/Code-Samar) | CNN-based plant disease classification | Python, TensorFlow |
+1. Trekking Management Application
+
+A full-stack trekking management platform with role-based access for administrators, staff and trekkers.
+
+Tech Stack: Vue.js · Flask · SQLAlchemy · JWT · Redis · Celery
+
+View Repository
+
+2. Sundarbans House — Official Website
+
+A community platform for IIT Madras BS students featuring events, regional meetups, teams and student engagement.
+
+Tech Stack: Vue.js · JavaScript · Vercel · Git
+
+Live Website · View Repository
+
+3. Hospital Management System
+
+A web-based hospital management application supporting Admin, Doctor and Patient workflows, appointment scheduling and treatment records.
+
+Tech Stack: Python · Flask · Flask-SQLAlchemy · SQLite · PostgreSQL
+
+View Repository
+
+4. Plant Disease Detection System
+
+An image classification project using deep learning to identify plant diseases from leaf images.
+
+Tech Stack: Python · TensorFlow · Keras · CNN
 
 ### 📊 GitHub Analytics
 
@@ -43,6 +64,20 @@
 <p align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=Code-Samar&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+Current Focus
+
+Strengthening Data Structures & Algorithms through LeetCode.
+
+Improving problem-solving and core CS fundamentals.
+
+Learning Java backend development with Spring Boot.
+
+Building HireTrack — Job & Placement Management System.
+
+Understanding System Design and scalable application architecture.
 
 ### 🤝 Let's Connect
 
