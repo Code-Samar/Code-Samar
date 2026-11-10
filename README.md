@@ -57,16 +57,6 @@ A deep learning-based image classification system that identifies plant diseases
 
 `Python` `TensorFlow` `Keras` `CNN`
 
-### 🎯 Currently Focusing On
-
-- Data Structures & Algorithms — LeetCode
-- Core CS fundamentals and problem-solving
-- Java backend development with Spring Boot
-- **HireTrack** — Job & Placement Management System
-- System Design and scalable architectures
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
