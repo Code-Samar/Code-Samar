@@ -5,16 +5,21 @@
 <h3 align="center">Software Developer | Full Stack Developer | SDE Enthusiast</h3>
 
 <p align="center">
- Computer Science and Engineering student passionate about building practical software solutions, developing scalable applications, and solving problems through code.
+  Computer Science student passionate about building practical software solutions,
+  developing scalable applications, and solving problems through code.
+</p>
+
+<p align="center">
+  🎓 Amity University &nbsp; | &nbsp; 🎓 IIT Madras
 </p>
 
 ---
 
-- 🎓 CSE Student | Amity University
-- 🎓 BS Data Science | IIT Madras
+### 👨‍💻 About Me
+
 - 💡 Interested in Software Engineering, DSA & System Design
 - 🚀 Building full-stack and backend applications
-- 🌱 Currently learning Spring Boot and PostgreSQL
+- 🌱 Exploring Java, Spring Boot and PostgreSQL
 
 ### ⚡ Tech Stack
 
@@ -24,35 +29,22 @@
 
 ### 🚀 Featured Projects
 
-1. Trekking Management Application
+| Project | Description | Technologies |
+|---|---|---|
+| **[Trekking Management Application](https://github.com/Code-Samar/Trekking-Management-Application)** | Role-based trekking, staff and booking management platform | Vue · Flask · Redis · Celery |
+| **[Sundarbans House](https://github.com/Code-Samar/Sundarbans-House_Vue)** | IIT Madras student community platform | Vue · JavaScript · Vercel |
+| **[Hospital Management System](https://github.com/Code-Samar/Hospital-Management-System-)** | Hospital workflows for Admin, Doctor and Patient | Flask · SQLAlchemy · PostgreSQL |
+| **Plant Disease Detection** | CNN-based plant disease image classification | Python · TensorFlow · Keras |
 
-A full-stack trekking management platform with role-based access for administrators, staff and trekkers.
+🌐 **[Explore more projects on GitHub →](https://github.com/Code-Samar?tab=repositories)**
 
-Tech Stack: Vue.js · Flask · SQLAlchemy · JWT · Redis · Celery
+### 🎯 Currently Focusing On
 
-View Repository
-
-2. Sundarbans House — Official Website
-
-A community platform for IIT Madras BS students featuring events, regional meetups, teams and student engagement.
-
-Tech Stack: Vue.js · JavaScript · Vercel · Git
-
-Live Website · View Repository
-
-3. Hospital Management System
-
-A web-based hospital management application supporting Admin, Doctor and Patient workflows, appointment scheduling and treatment records.
-
-Tech Stack: Python · Flask · Flask-SQLAlchemy · SQLite · PostgreSQL
-
-View Repository
-
-4. Plant Disease Detection System
-
-An image classification project using deep learning to identify plant diseases from leaf images.
-
-Tech Stack: Python · TensorFlow · Keras · CNN
+- Data Structures & Algorithms — LeetCode
+- Core CS fundamentals and problem-solving
+- Java backend development with Spring Boot
+- **HireTrack** — Job & Placement Management System
+- System Design and scalable architectures
 
 ### 📊 GitHub Analytics
 
@@ -66,18 +58,6 @@ Tech Stack: Python · TensorFlow · Keras · CNN
 </p>
 
 ---
-
-Current Focus
-
-Strengthening Data Structures & Algorithms through LeetCode.
-
-Improving problem-solving and core CS fundamentals.
-
-Learning Java backend development with Spring Boot.
-
-Building HireTrack — Job & Placement Management System.
-
-Understanding System Design and scalable application architecture.
 
 ### 🤝 Let's Connect
 
