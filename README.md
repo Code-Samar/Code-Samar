@@ -8,15 +8,6 @@
   Building useful applications • Solving problems • Learning every day
 </p>
 
-<p align="center">
-  <a href="https://github.com/Code-Samar">
-    <img src="https://komarev.com/ghpvc/?username=Code-Samar&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Code-Samar?tab=followers">
-    <img src="https://img.shields.io/github/followers/Code-Samar?style=flat-square&color=blue" alt="Followers"/>
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
